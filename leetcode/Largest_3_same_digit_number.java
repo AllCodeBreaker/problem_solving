@@ -1,5 +1,5 @@
 class Largest_3_same_digit_number {
-    public String largestGoodInteger(String num) {
+    public static String largestGoodInteger(String num) {
         int largeKey = -1;
         int length = num.length();
 
